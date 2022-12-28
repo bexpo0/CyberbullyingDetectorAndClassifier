@@ -1,0 +1,10 @@
+# vscode
+.vscode
+
+# tenserflow datasets folder
+~
+
+# datasets
+*.csv
+*.xlsx
+*.json
