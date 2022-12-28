@@ -12,6 +12,6 @@
  1. clone the project using git.
  2. install python of the relevant version.
  3. install the extra python packages used in this project (such as `tenserflow`, `nltk` and `nlpaug`)
- 4. download the datasets mentioned at section `__The data we use in our research can be found in:__` and put them in the folders of `datasets\kaggle` and `datasets\mendeley` depending on the source.
+ 4. download the datasets mentioned at section `The data we use in our research can be found in:` and put them in the folders of `datasets\kaggle` and `datasets\mendeley` depending on the source.
  
  
