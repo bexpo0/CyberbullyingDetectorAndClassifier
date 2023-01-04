@@ -1,4 +1,4 @@
-﻿# Cyberbullying detector and classifier
+﻿# Cyberbullying Detector and Classifier
  This project was made by Ben and Lihi, students in a data science workshop, as part of our degree.  
  In this project we tried to detect Cyberbullying comments on internet messages from various datasets
  
